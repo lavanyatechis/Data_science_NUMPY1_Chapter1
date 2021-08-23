@@ -1,4 +1,4 @@
-# Data_science_NUMPY1_Chapter1
+# Data_science_NUMPY
 numpy practice
 Project done on Numpy
 

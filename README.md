@@ -1,7 +1,6 @@
 # Data_science_NUMPY
 
-
-Details of Project:
+Project:
 
 # AD CAMPAIGN ANALYSIS PORJECT USING NUMPY LIBRARY 
 

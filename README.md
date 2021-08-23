@@ -4,7 +4,7 @@ Project done on Numpy
 
 Details of Project:
 
-AD CAMPAIGN ANALYSIS PORJECT USING NUMPY LIBRARY 
+# AD CAMPAIGN ANALYSIS PORJECT USING NUMPY LIBRARY 
 
 project_data = 'KAG_Conversion_Data.csv'
 

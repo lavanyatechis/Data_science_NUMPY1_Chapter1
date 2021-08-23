@@ -10,7 +10,8 @@ project_data = 'KAG_Conversion_Data.csv'
 
 Let us build a complete project using NumPy (without any help).
 
-            ***Features:***
+# FEATURES
+
 1.ad_id: unique ID for each ad
 
 2.xyzcampaignid: an ID associated with each ad campaign of XYZ company
@@ -33,7 +34,8 @@ Let us build a complete project using NumPy (without any help).
 
 11.Approved conversion: Total number of people who bought the product after seeing the ad
 
-         ***Instructions:***
+# Instructions:
+
 -Load the data. Data is already given to you in variable path
 
 -How many unique ad campaigns (xyzcampaignid) does this data contain ? And for how many times was each campaign run ?

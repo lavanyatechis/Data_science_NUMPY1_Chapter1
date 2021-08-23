@@ -1,6 +1,5 @@
 # Data_science_NUMPY
-numpy practice
-Project done on Numpy
+
 
 Details of Project:
 

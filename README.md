@@ -4,10 +4,11 @@ Project done on Numpy
 
 Details of Project:
 
-            ***PROJECT :***
-Let us build a complete project using NumPy (without any help).
+AD CAMPAIGN ANALYSIS PORJECT USING NUMPY LIBRARY 
 
-Path: project_data = 'KAG_Conversion_Data.csv'
+project_data = 'KAG_Conversion_Data.csv'
+
+Let us build a complete project using NumPy (without any help).
 
             ***Features:***
 1.ad_id: unique ID for each ad
